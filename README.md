@@ -15,7 +15,7 @@
   <a href="https://instagram.com/adithyadev_blk" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/c/adithyadev_blk" target="_blank">
+  <a href="https://www.youtube.com/c/team_blk_official" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
