@@ -60,13 +60,13 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blkofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyadevk&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blkofficial&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyadevk&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blkofficial&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyadevk&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
@@ -75,7 +75,7 @@
 <h2 align="center">💬 Let's Collaborate!</h2>
 <p align="center">I’m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
 <p align="center">
-  <a href="mailto:adithyadev@quivox.org" target="_blank">
+  <a href="mailto:hi@adithyadev.in" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
